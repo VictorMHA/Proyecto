@@ -1,0 +1,29 @@
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .container{
+      position: relative;
+      right: 100px;
+  }
+  
+html, body {
+  height: 100%;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+.textofooter {
+    color: rgb(252, 253, 253);
+    margin-left: 630px;
+    position: relative;
+}
+
+
+
